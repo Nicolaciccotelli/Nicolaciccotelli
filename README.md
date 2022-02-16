@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicola Ciccotelli</h1>
 <h3 align="center">Front-end Development and UX/UI Design</h3>
 
+![Design and Development](https://github.com/Nicolaciccotelli/Nicolaciccotelli/blob/main/Banner-Readme.png)
+
 I am a guy with the dream and the passion of wanting to become a web developer, but I am also passionate about graphics and design
 
 - 👨‍💻 All of my projects are available at [https://nicolaciccotelli.github.io/Portfolio/](https://nicolaciccotelli.github.io/Portfolio/)
