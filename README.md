@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nicola Ciccotelli</h1>
 <h3 align="center">Front-end Development and UX/UI Design</h3>
 
+I am a guy with the dream and the passion of wanting to become a web developer, but I am also passionate about graphics and design
+
 - 👨‍💻 All of my projects are available at [https://nicolaciccotelli.github.io/Portfolio/](https://nicolaciccotelli.github.io/Portfolio/)
 
 - 📫 How to reach me **nicolaciccotelli223@gmail.com**
 
-- ⚡ Fun fact **I am a guy with the dream and the passion of wanting to become a web developer, but I am also passionate about graphics and design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
