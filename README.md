@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Nicola Ciccotelli</h1>
 <h3 align="center">Front-end Development and UX/UI Design</h3>
 
+<i>Whenever we learn something new, we ourselves become something new.</i>
+(Leo Buscaglia)
+
+I define myself as a student because every day I try to improve myself by always learning something new.
+I am a lover of the study...
+
 I am a guy with the dream and the passion of wanting to become a web developer, but I am also passionate about graphics and design
 
 - 👨‍💻 All of my projects are available at [https://nicolaciccotelli.github.io/Portfolio/](https://nicolaciccotelli.github.io/Portfolio/)
